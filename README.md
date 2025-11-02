@@ -138,7 +138,7 @@ These allow the extension to:
 * 🕓 Customizable alert intervals (5, 10, 15 mins)
 * 🧠 AI-powered productivity suggestions
 * 🧾 Weekly productivity reports
-* 🌙 Dark mode for analytics page
+* 🌙 Dark mode for analytics page.
 
 
 
